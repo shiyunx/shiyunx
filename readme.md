@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <sub>
     • studied engineering<br>
     • building skills<br>
-    • learning data & technology
-  </sub>
 </p>
