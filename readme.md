@@ -5,6 +5,5 @@
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
 
-<p align="center">
-  studied engineering &nbsp;·&nbsp; building skills
-</p>
+- Studied engineering
+- Building skills
