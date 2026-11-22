@@ -7,4 +7,4 @@
 
 - Studied engineering
 - Enjoy building skills
-- Learning data & technology 
+- Learning data & technology
