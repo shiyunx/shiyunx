@@ -4,3 +4,11 @@
   <img src="images/flower.gif" width="32" alt="flower">
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
+
+<p align="center">
+  <sub>
+    • studied engineering<br>
+    • building skills<br>
+    • learning data & technology
+  </sub>
+</p>
