@@ -5,5 +5,5 @@
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
 
-- studied engineering
-- learning & growing
+- Studied engineering
+- Learning data & technology
