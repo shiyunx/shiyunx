@@ -5,5 +5,5 @@
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
 
-- Studied engineering
-- Building skills
+- studied engineering
+- learning & growing
