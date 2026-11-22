@@ -5,6 +5,6 @@
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
 
-- Studied engineering 
-- Building skills
-- Learning data & technology
+<p align="center">
+  studied engineering &nbsp;·&nbsp; building skills
+</p>
