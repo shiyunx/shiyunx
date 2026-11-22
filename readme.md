@@ -4,7 +4,3 @@
   <img src="images/flower.gif" width="32" alt="flower">
   <img src="images/plant.gif" width="32" alt="plant">
 </p>
-
-- Studied engineering
-- Enjoy building skills
-- Learning data & technology
